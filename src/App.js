@@ -16,7 +16,7 @@ const App = () =>
                 <div>
                     <Switch>
                     <Route exact path={"/"} component={About} />
-                        <Route exact path={"/react-portfolio2.0"} component={About} />
+                        <Route exact path={"/react-portfolio3.0"} component={About} />
                         <Route exact path={"/portfolio"} component={Portfolio} />
                         <Route exact path={"/contact"} component={Contact} />
                         <Route exact path={"/resume"} component={Resume} />
