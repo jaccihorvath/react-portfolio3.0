@@ -28,7 +28,7 @@ const Resume = () => (
             
             <p className="lead text-center">
                 <a
-                    href="https://jaccihorvath.github.io/responsive-portfolio/assets/jh-webdev-resume-2020.pdf"
+                    href="https://github.com/jaccihorvath/react-portfolio3.0/blob/578ac8215d6b119a08a55e56fa2fd42ccb5f4b05/src/assets/jh-webdev-resume-2020.pdf"
                     target="_blank">
                     Download resume PDF
                 </a>
