@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+![License Badge](https://img.shields.io/github/license/jaccihorvath/react-portfolio3.0)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Portfolio
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+In this repository, you will find a responsive portfolio created with React and comprised of the following four pages:
+* About Me 
+* Portfolio 
+* Contact 
+* Resume
 
-### `npm start`
+Each of the pages feature:
+* A responsive layout
+* A background image
+* A fixed-top navbar that includes my personal logo and links to the other pages
+* A sticky footer that includes my personal logo, links to my social media accounts (that open in a new window) and copyright Jacci Horvath
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies Used
+* React
+* Javascript
+* Bootstrap
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### About Me
 
-### `npm run build`
+The About Me page is comprised of a headshot and a short paragraph about myself.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Portfolio
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The Portfolio page is comprised of image cards with nine completed projects. Each image card contains the title of the project, a link to the deployed application and a link to the GitHub repository that houses the code.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Contact
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The Contact page is comprised of an embedded map showing my location, as well as my phone number and email address.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Mock-Up
 
-## Learn More
+The finished project can be deployed [here](https://jaccihorvath.github.io/react-portfolio3.0/#/).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Screenshots
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![about](src/assets/about.png)
+![portfolio](src/assets/portfolio.png)
+![contact](src/assets/contact.png)
+![resume](src/assets/resume.png)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact Information
+Jacci Horvath, [workwithjacci@gmail.com](mailto:workwithjacci@gmail.com), 330-507-5166
