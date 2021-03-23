@@ -61,5 +61,12 @@
         "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/employee-directory.png?raw=true",
         "repo": "https://github.com/jaccihorvath/employee-directory",
         "deployed": "https://jaccihorvath.github.io/employee-directory/"
+    },
+    {
+        "id": 10,
+        "title": "Google Books Search",
+        "image": "https://github.com/jaccihorvath/react-portfolio3.0/blob/67b38e7e85a0dc053846963a1e2ddf36c6ebf3bb/src/assets/google-books.png",
+        "repo": "https://github.com/jaccihorvath/google-books",
+        "deployed": "https://safe-reef-99407.herokuapp.com/"
     }
 ]
