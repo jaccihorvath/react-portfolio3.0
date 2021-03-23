@@ -2,70 +2,70 @@
     {
         "id": 1,
         "title": "Watch or Read",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/watchOrRead.PNG?raw=true",
+        "image": "/assets/watchOrRead.PNG",
         "repo": "https://github.com/jaccihorvath/WatchOrRead",
         "deployed": "https://breakfastitem.github.io/WatchOrRead/"
     },
     {
         "id": 2,
         "title": "inRHYTHM",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/inrhythm.png?raw=true",
+        "image": "/assets/inrhythm.png",
         "repo": "https://github.com/jaccihorvath/inrhythm",
         "deployed": "https://guarded-cliffs-86649.herokuapp.com/"
     },
     {
         "id": 3,
         "title": "Code Quiz",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/code-quiz.png?raw=true",
+        "image": "/assets/code-quiz.png",
         "repo": "https://github.com/jaccihorvath/code-quiz",
         "deployed": "https://jaccihorvath.github.io/code-quiz/index.html"
     },
     {
         "id": 4,
         "title": "Employee Summary",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/employee-summary.PNG?raw=true",
+        "image": "/assets/employee-summary.PNG",
         "repo": "https://github.com/jaccihorvath/employee-summary",
         "deployed": "https://drive.google.com/file/d/1BXsH09yvkxwJH13UqWF_2jkCOLhUm6vi/view"
     },
     {
         "id": 5,
         "title": "Password Generator",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/password-generator.png?raw=true",
+        "image": "/assets/password-generator.png",
         "repo": "https://github.com/jaccihorvath/password-generator",
         "deployed": "https://jaccihorvath.github.io/password-generator/"
     },
     {
         "id": 6,
         "title": "Fitness Tracker",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/fitness-tracker.png?raw=true",
+        "image": "/assets/fitness-tracker.png",
         "repo": "https://github.com/jaccihorvath/workout-tracker",
         "deployed": "https://young-spire-44481.herokuapp.com/?id=60367f057ec9400015c63310"
     },
     {
         "id": 7,
         "title": "Eat-Da-Burger!",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/burger-app.png?raw=true",
+        "image": "/assets/burger-app.png",
         "repo": "https://github.com/jaccihorvath/burger",
         "deployed": "https://afternoon-brook-95200.herokuapp.com/"
     },
     {
         "id": 8,
         "title": "Note Taker",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/note-taker.png?raw=true",
+        "image": "/assets/note-taker.png",
         "repo": "https://github.com/jaccihorvath/note-taker",
         "deployed": "https://limitless-thicket-48561.herokuapp.com/"
     },
     {
         "id": 9,
         "title": "Employee Directory",
-        "image": "https://github.com/jaccihorvath/react-portfolio/blob/main/src/assets/employee-directory.png?raw=true",
+        "image": "/assets/employee-directory.png",
         "repo": "https://github.com/jaccihorvath/employee-directory",
         "deployed": "https://jaccihorvath.github.io/employee-directory/"
     },
     {
         "id": 10,
         "title": "Google Books Search",
-        "image": "https://github.com/jaccihorvath/react-portfolio3.0/blob/67b38e7e85a0dc053846963a1e2ddf36c6ebf3bb/src/assets/google-books.png",
+        "image": "/assets/google-books.png",
         "repo": "https://github.com/jaccihorvath/google-books",
         "deployed": "https://safe-reef-99407.herokuapp.com/"
     }
