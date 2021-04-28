@@ -1,5 +1,12 @@
 [
     {
+        "id": 0,
+        "title": "ripe",
+        "image": "/assets/ripe.png",
+        "repo": "https://github.com/jaccihorvath/ripe",
+        "deployed": "https://peaceful-coast-54827.herokuapp.com/"
+    },
+    {
         "id": 1,
         "title": "Watch or Read",
         "image": "/assets/watchOrRead.PNG",
