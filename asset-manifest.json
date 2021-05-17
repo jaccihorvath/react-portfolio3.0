@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.129a90c5.chunk.js",
-    "main.js.map": "/static/js/main.129a90c5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cb5db1cd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cb5db1cd.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6a395aac.chunk.js": "/static/js/2.6a395aac.chunk.js",
-    "static/js/2.6a395aac.chunk.js.map": "/static/js/2.6a395aac.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.6a395aac.chunk.js.LICENSE.txt": "/static/js/2.6a395aac.chunk.js.LICENSE.txt",
-    "static/media/email.888ba282.png": "/static/media/email.888ba282.png",
-    "static/media/jh-logo.973e3484.png": "/static/media/jh-logo.973e3484.png",
-    "static/media/jh-resume-01.ecb88c49.png": "/static/media/jh-resume-01.ecb88c49.png",
-    "static/media/me.1deb85fd.jpg": "/static/media/me.1deb85fd.jpg",
-    "static/media/pexels-jaymantri-5412.93e618c9.jpg": "/static/media/pexels-jaymantri-5412.93e618c9.jpg"
+    "main.js": "/react-portfolio3.0/static/js/main.e6ef668a.chunk.js",
+    "main.js.map": "/react-portfolio3.0/static/js/main.e6ef668a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio3.0/static/js/runtime-main.5f6c786e.js",
+    "runtime-main.js.map": "/react-portfolio3.0/static/js/runtime-main.5f6c786e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio3.0/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6a395aac.chunk.js": "/react-portfolio3.0/static/js/2.6a395aac.chunk.js",
+    "static/js/2.6a395aac.chunk.js.map": "/react-portfolio3.0/static/js/2.6a395aac.chunk.js.map",
+    "index.html": "/react-portfolio3.0/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio3.0/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.6a395aac.chunk.js.LICENSE.txt": "/react-portfolio3.0/static/js/2.6a395aac.chunk.js.LICENSE.txt",
+    "static/media/email.888ba282.png": "/react-portfolio3.0/static/media/email.888ba282.png",
+    "static/media/jh-logo.973e3484.png": "/react-portfolio3.0/static/media/jh-logo.973e3484.png",
+    "static/media/jh-resume-01.ecb88c49.png": "/react-portfolio3.0/static/media/jh-resume-01.ecb88c49.png",
+    "static/media/me.1deb85fd.jpg": "/react-portfolio3.0/static/media/me.1deb85fd.jpg",
+    "static/media/pexels-jaymantri-5412.93e618c9.jpg": "/react-portfolio3.0/static/media/pexels-jaymantri-5412.93e618c9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb5db1cd.js",
+    "static/js/runtime-main.5f6c786e.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.6a395aac.chunk.js",
-    "static/js/main.129a90c5.chunk.js"
+    "static/js/main.e6ef668a.chunk.js"
   ]
 }
