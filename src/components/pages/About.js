@@ -36,7 +36,7 @@ const About = () => (
                     </em></p>
 
                     <p>
-                        I am a self-taught graphic designer and marketing professional living in Youngstown, OH. Although I  have a little background in basic HTML, I am new to coding and working my way through The Ohio State University's Full-Stack Coding Bootcamp.
+                        I am a marketing professional, full-stack web developer and self-taught graphic designer currently living in Columbus, OH.
                     </p>
 
                     <p>
@@ -44,7 +44,7 @@ const About = () => (
                     </p>
 
                     <p>
-                        I am looking forward to completing this course and starting the next chapter in my career. Feel free to check out some of the projects I've been working on and contact me if you're interested in working together.
+                        Feel free to check out some of the projects I've been working on and contact me if you're interested in working together.
                     </p>
                 </div>
             </div>

@@ -31,7 +31,7 @@ const Contact = () => (
 
 
 
-            <iframe width="100%" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Youngstown,%20Ohio&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><br /><br />
+            <iframe width="100%" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Columbus,%20Ohio&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><br /><br />
             
             <p className="lead text-center">
                 Thanks for stopping by! You can reach me at:
